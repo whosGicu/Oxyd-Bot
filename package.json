@@ -1,0 +1,45 @@
+{
+  "name": "oxyd",
+  "version": "1.0.0",
+  "description": "e bun",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "idk"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "oxyd team",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ascii-art": "^2.5.0",
+    "ascii-table": "0.0.9",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "eris": "^0.13.3",
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "parse-ms": "^2.1.0",
+    "pm2": "^4.4.1",
+    "random-puppy": "^1.1.0",
+    "superagent": "^6.0.0",
+    "mongoose": "^5.9.29",
+    "quick.db": "^7.1.1",
+    "canvas": "^2.6.1",
+    "util": "^0.12.3",
+    "simple-youtube-api": "^5.2.1",
+    "canvacord": "^4.0.0",
+    "genius-lyrics": "^3.0.0",
+    "ytdl-core": "^3.2.2",
+    "ytdl-core-discord": "^1.2.0"
+  },
+  "devDependencies": {}
+}
